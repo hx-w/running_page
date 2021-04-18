@@ -2,7 +2,7 @@ module.exports = {
   pathPrefix: `/`, // Change to `/running_page` when running on github pages
   siteMetadata: {
     title: 'Running page',
-    siteUrl: 'https://hx-w.top/running',
+    siteUrl: 'https://running.hx-w.top',
     description: 'My running records',
   },
   plugins: [
